@@ -44,6 +44,10 @@
     "*.sh": [
       "shellcheck",
       "git add"
+    ],
+    "package.json": [
+      "scripts/checkPackageJson.sh",
+      "git add"
     ]
   },
   "husky": {
