@@ -18,6 +18,7 @@ module.exports = {
         "@typescript-eslint/indent": "error",
         "@typescript-eslint/prefer-namespace-keyword": "error",
         "@typescript-eslint/type-annotation-spacing": "error",
+        "@typescript-eslint/explicit-function-return-type": "off",
         "no-eval": "error",
         "no-var": "error",
         "@typescript-eslint/tslint/config": [
